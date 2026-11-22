@@ -91,3 +91,6 @@ body{background-image:radial-gradient(720px 420px at 50% -80px,rgba(255,227,110,
 
 /* ===== Phase 1 v2.3: store button icons (2026-11-23) ===== */
 .btn-icon{width:21px;height:21px;flex-shrink:0;display:block}
+
+.compat{align-items:center}
+.compat-note{font-size:14px;font-weight:600;color:var(--muted)}
