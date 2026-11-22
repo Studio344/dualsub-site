@@ -94,3 +94,4 @@ body{background-image:radial-gradient(720px 420px at 50% -80px,rgba(255,227,110,
 
 .compat{align-items:center}
 .compat-note{font-size:14px;font-weight:600;color:var(--muted)}
+.compat .compat-note{border:0;background:none;border-radius:0;padding:0;backdrop-filter:none;-webkit-backdrop-filter:none}
