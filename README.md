@@ -11,7 +11,7 @@ GitHub Pages 向けの静的ランディングページです。ビルド工程�
 - `assets/dualsub-landing/*.png`（上記以外）：DualSubオリジナルのアイコンとストア掲載用デモ素材（配信作品の映像・実再生キャプチャではありません）
 
 ## 公開前に確認
-- canonical・hreflang・og:url・og:image は `https://himiyosh.github.io/dualsub-site/` を前提にしています。独自ドメインなど別のURLで配信している場合は書き換えてください。
+- canonical・hreflang・og:url・og:image は `https://studio344.github.io/dualsub-site/` を前提にしています。独自ドメインなど別のURLで配信している場合は書き換えてください。
 - デスクトップ・タブレット・スマートフォン幅での実ブラウザー表示を確認してください。現在は構造チェックのみ完了しており、実画面検証は未完了です。
 - Chrome・Edge・Pro・プライバシーポリシーへのリンクと最新の料金・対応条件を再確認してください。
 - GitHub Pages の設定・公開は、このファイルの存在だけでは完了しません。公開後は配信URLとファイル内容を確認してください。
