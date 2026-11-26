@@ -96,3 +96,7 @@ body{background-image:radial-gradient(720px 420px at 50% -80px,rgba(255,227,110,
 .compat-note{font-size:14px;font-weight:600;color:var(--muted)}
 .compat .compat-note{border:0;background:none;border-radius:0;padding:0;backdrop-filter:none;-webkit-backdrop-filter:none}
 .compat span.compat-note{border:0;background:none;border-radius:0;padding:0;backdrop-filter:none;-webkit-backdrop-filter:none}
+/* Phase 2: feature grid and language switch */
+.features{padding-top:0}.feature-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}.header nav>a.nav-lang{font-size:13px;letter-spacing:.06em;color:var(--muted);border:1px solid var(--line);border-radius:8px;padding:0 10px;min-height:36px}.header nav>a.nav-lang:hover{color:var(--ink);text-decoration:none;border-color:#53657b}
+@media(max-width:900px){.feature-grid{gap:14px}}
+@media(max-width:760px){.feature-grid{grid-template-columns:1fr}.header nav>a.nav-lang{display:inline-flex;min-height:44px}.header nav{gap:10px}}
